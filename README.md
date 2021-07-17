@@ -1,7 +1,7 @@
 # Data-Analysis-with-Python
 This is the Repository of our Data Analysis with Python Course specially designed for teenagers. You can visit our course by clicking on the link below. Link: https://teenagecoder.com/data-analysis
 
-This reposiroty includes all the codes written in this Introduction to Python Course by Teenage Coder.
+This reposiroty includes all the codes written in Data Analysis Course by Teenage Coder.
 
 
 
